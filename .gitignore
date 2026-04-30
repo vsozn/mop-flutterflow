@@ -1,0 +1,10 @@
+# Flutter
+.dart_tool/
+build/
+.pub-cache/
+.pub/
+
+# Misc
+.DS_Store
+.env
+.env.local
